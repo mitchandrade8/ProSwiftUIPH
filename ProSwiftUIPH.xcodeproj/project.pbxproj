@@ -16,6 +16,8 @@
 		744EEBF82A02F96C009BEF5F /* InsideTupleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */; };
 		744EEBFA2A02FC64009BEF5F /* UnderstandingIdentity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF92A02FC64009BEF5F /* UnderstandingIdentity.swift */; };
 		744EEBFD2A030267009BEF5F /* UITwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBFC2A030267009BEF5F /* UITwo.swift */; };
+		744EEBFF2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBFE2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift */; };
+		744EEC022A0462CC009BEF5F /* IDITwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC012A0462CC009BEF5F /* IDITwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTupleView.swift; sourceTree = "<group>"; };
 		744EEBF92A02FC64009BEF5F /* UnderstandingIdentity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingIdentity.swift; sourceTree = "<group>"; };
 		744EEBFC2A030267009BEF5F /* UITwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITwo.swift; sourceTree = "<group>"; };
+		744EEBFE2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntentionallyDiscardingIdentity.swift; sourceTree = "<group>"; };
+		744EEC012A0462CC009BEF5F /* IDITwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IDITwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,7 @@
 				744EEBF52A02F7E1009BEF5F /* MultipleFrames.swift */,
 				744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */,
 				744EEBFB2A03024C009BEF5F /* UnderstandingIdentityExamples */,
+				744EEC002A0462A5009BEF5F /* IntentionallyDiscardingIdentityExamples */,
 				744EEBE92A02F0EC009BEF5F /* Assets.xcassets */,
 				744EEBEB2A02F0EC009BEF5F /* Preview Content */,
 			);
@@ -88,6 +93,15 @@
 				744EEBFC2A030267009BEF5F /* UITwo.swift */,
 			);
 			path = UnderstandingIdentityExamples;
+			sourceTree = "<group>";
+		};
+		744EEC002A0462A5009BEF5F /* IntentionallyDiscardingIdentityExamples */ = {
+			isa = PBXGroup;
+			children = (
+				744EEBFE2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift */,
+				744EEC012A0462CC009BEF5F /* IDITwo.swift */,
+			);
+			path = IntentionallyDiscardingIdentityExamples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +178,8 @@
 				744EEBF62A02F7E1009BEF5F /* MultipleFrames.swift in Sources */,
 				744EEBF82A02F96C009BEF5F /* InsideTupleView.swift in Sources */,
 				744EEBF42A02F133009BEF5F /* LayoutNeutrality.swift in Sources */,
+				744EEC022A0462CC009BEF5F /* IDITwo.swift in Sources */,
+				744EEBFF2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift in Sources */,
 				744EEBFA2A02FC64009BEF5F /* UnderstandingIdentity.swift in Sources */,
 				744EEBFD2A030267009BEF5F /* UITwo.swift in Sources */,
 				744EEBE62A02F0EA009BEF5F /* ProSwiftUIPHApp.swift in Sources */,
