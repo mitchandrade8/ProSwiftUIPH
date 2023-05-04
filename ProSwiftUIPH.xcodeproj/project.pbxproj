@@ -11,6 +11,11 @@
 		744EEBE82A02F0EA009BEF5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBE72A02F0EA009BEF5F /* ContentView.swift */; };
 		744EEBEA2A02F0EC009BEF5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744EEBE92A02F0EC009BEF5F /* Assets.xcassets */; };
 		744EEBED2A02F0EC009BEF5F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744EEBEC2A02F0EC009BEF5F /* Preview Assets.xcassets */; };
+		744EEBF42A02F133009BEF5F /* LayoutNeutrality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF32A02F133009BEF5F /* LayoutNeutrality.swift */; };
+		744EEBF62A02F7E1009BEF5F /* MultipleFrames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF52A02F7E1009BEF5F /* MultipleFrames.swift */; };
+		744EEBF82A02F96C009BEF5F /* InsideTupleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */; };
+		744EEBFA2A02FC64009BEF5F /* UnderstandingIdentity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBF92A02FC64009BEF5F /* UnderstandingIdentity.swift */; };
+		744EEBFD2A030267009BEF5F /* UITwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEBFC2A030267009BEF5F /* UITwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		744EEBE72A02F0EA009BEF5F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		744EEBE92A02F0EC009BEF5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		744EEBEC2A02F0EC009BEF5F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		744EEBF32A02F133009BEF5F /* LayoutNeutrality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutNeutrality.swift; sourceTree = "<group>"; };
+		744EEBF52A02F7E1009BEF5F /* MultipleFrames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleFrames.swift; sourceTree = "<group>"; };
+		744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTupleView.swift; sourceTree = "<group>"; };
+		744EEBF92A02FC64009BEF5F /* UnderstandingIdentity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingIdentity.swift; sourceTree = "<group>"; };
+		744EEBFC2A030267009BEF5F /* UITwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +63,10 @@
 			children = (
 				744EEBE52A02F0EA009BEF5F /* ProSwiftUIPHApp.swift */,
 				744EEBE72A02F0EA009BEF5F /* ContentView.swift */,
+				744EEBF32A02F133009BEF5F /* LayoutNeutrality.swift */,
+				744EEBF52A02F7E1009BEF5F /* MultipleFrames.swift */,
+				744EEBF72A02F96C009BEF5F /* InsideTupleView.swift */,
+				744EEBFB2A03024C009BEF5F /* UnderstandingIdentityExamples */,
 				744EEBE92A02F0EC009BEF5F /* Assets.xcassets */,
 				744EEBEB2A02F0EC009BEF5F /* Preview Content */,
 			);
@@ -65,6 +79,15 @@
 				744EEBEC2A02F0EC009BEF5F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		744EEBFB2A03024C009BEF5F /* UnderstandingIdentityExamples */ = {
+			isa = PBXGroup;
+			children = (
+				744EEBF92A02FC64009BEF5F /* UnderstandingIdentity.swift */,
+				744EEBFC2A030267009BEF5F /* UITwo.swift */,
+			);
+			path = UnderstandingIdentityExamples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +161,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				744EEBE82A02F0EA009BEF5F /* ContentView.swift in Sources */,
+				744EEBF62A02F7E1009BEF5F /* MultipleFrames.swift in Sources */,
+				744EEBF82A02F96C009BEF5F /* InsideTupleView.swift in Sources */,
+				744EEBF42A02F133009BEF5F /* LayoutNeutrality.swift in Sources */,
+				744EEBFA2A02FC64009BEF5F /* UnderstandingIdentity.swift in Sources */,
+				744EEBFD2A030267009BEF5F /* UITwo.swift in Sources */,
 				744EEBE62A02F0EA009BEF5F /* ProSwiftUIPHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
