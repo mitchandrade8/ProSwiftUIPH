@@ -21,6 +21,8 @@
 		744EEC042A047627009BEF5F /* OptionalsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC032A047627009BEF5F /* OptionalsViews.swift */; };
 		744EEC062A0476F3009BEF5F /* AnimatingTheUnanimatable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC052A0476F3009BEF5F /* AnimatingTheUnanimatable.swift */; };
 		744EEC092A047839009BEF5F /* ZedIndexExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC082A047838009BEF5F /* ZedIndexExample.swift */; };
+		744EEC0B2A047CD5009BEF5F /* AvoidingThePain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC0A2A047CD5009BEF5F /* AvoidingThePain.swift */; };
+		744EEC0D2A047E49009BEF5F /* CreatingAnimatedViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744EEC0C2A047E49009BEF5F /* CreatingAnimatedViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +41,8 @@
 		744EEC032A047627009BEF5F /* OptionalsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionalsViews.swift; sourceTree = "<group>"; };
 		744EEC052A0476F3009BEF5F /* AnimatingTheUnanimatable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingTheUnanimatable.swift; sourceTree = "<group>"; };
 		744EEC082A047838009BEF5F /* ZedIndexExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZedIndexExample.swift; sourceTree = "<group>"; };
+		744EEC0A2A047CD5009BEF5F /* AvoidingThePain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvoidingThePain.swift; sourceTree = "<group>"; };
+		744EEC0C2A047E49009BEF5F /* CreatingAnimatedViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingAnimatedViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				744EEC002A0462A5009BEF5F /* IntentionallyDiscardingIdentityExamples */,
 				744EEC032A047627009BEF5F /* OptionalsViews.swift */,
 				744EEC072A04781B009BEF5F /* AnimatingExamples */,
+				744EEC0A2A047CD5009BEF5F /* AvoidingThePain.swift */,
+				744EEC0C2A047E49009BEF5F /* CreatingAnimatedViews.swift */,
 				744EEBE92A02F0EC009BEF5F /* Assets.xcassets */,
 				744EEBEB2A02F0EC009BEF5F /* Preview Content */,
 			);
@@ -195,9 +201,11 @@
 				744EEBF62A02F7E1009BEF5F /* MultipleFrames.swift in Sources */,
 				744EEBF82A02F96C009BEF5F /* InsideTupleView.swift in Sources */,
 				744EEBF42A02F133009BEF5F /* LayoutNeutrality.swift in Sources */,
+				744EEC0D2A047E49009BEF5F /* CreatingAnimatedViews.swift in Sources */,
 				744EEC062A0476F3009BEF5F /* AnimatingTheUnanimatable.swift in Sources */,
 				744EEC022A0462CC009BEF5F /* IDITwo.swift in Sources */,
 				744EEBFF2A045FD6009BEF5F /* IntentionallyDiscardingIdentity.swift in Sources */,
+				744EEC0B2A047CD5009BEF5F /* AvoidingThePain.swift in Sources */,
 				744EEC042A047627009BEF5F /* OptionalsViews.swift in Sources */,
 				744EEBFA2A02FC64009BEF5F /* UnderstandingIdentity.swift in Sources */,
 				744EEBFD2A030267009BEF5F /* UITwo.swift in Sources */,
